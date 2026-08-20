@@ -4,7 +4,7 @@
 
 I like building useful software and learning how the pieces work under the hood. Right now I'm focused on backend/full-stack engineering, practical developer tools, and applied AI/ML.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rishirapvi.github.io-181717?style=for-the-badge&logo=github)](https://rishirapvi.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-updated--site--alpha.vercel.app-181717?style=for-the-badge&logo=vercel)](https://updated-site-alpha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Singhvi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lockedin999/)
 
 ## 🔨 Technologies & Tools I've Worked With
