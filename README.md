@@ -2,10 +2,11 @@
 
 **Computer Science & Engineering @ The Ohio State University**
 
-I like building useful software and learning how the pieces work under the hood. Right now I'm focused on backend/full-stack engineering, practical developer tools, and applied AI/ML.
+I like building useful software and learning how the pieces work under the hood. Right now I'm focused on backend/full-stack engineering, practical developer tools, applied AI/ML, and building **FaceFrame**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-updated--site--alpha.vercel.app-181717?style=for-the-badge&logo=vercel)](https://updated-site-alpha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Singhvi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lockedin999/)
+[![FaceFrame](https://img.shields.io/badge/FaceFrame-faceframeai.com-111827?style=for-the-badge)](https://faceframeai.com)
 
 ## 🔨 Technologies & Tools I've Worked With
 
@@ -14,6 +15,9 @@ I like building useful software and learning how the pieces work under the hood.
 </p>
 
 ## 🚀 Selected Projects
+
+### [FaceFrame 👓](https://github.com/RishiRapvi/FaceFrame-README)
+AI-powered real-time glasses try-on and frame recommendation product using MediaPipe facial landmarks, a TensorFlow/Keras face-shape classifier, and a React frontend. The product is live at [faceframeai.com](https://faceframeai.com); source code remains private while the product is under active development.
 
 ### [ResumeIQ](https://github.com/RishiRapvi/ResumeIQ)
 Flask-based resume analysis app with PDF processing, structured AI feedback, ATS-oriented scoring, demo mode, tests, and deployment support.
